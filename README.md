@@ -43,3 +43,5 @@ and by adding this
 runner = "elf2uf2-rs -d"
 ```
 into the .cargo/config. We would make it auto push the code execute to the mounted pico when it done running.
+
+LETS DO IT
